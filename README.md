@@ -22,6 +22,6 @@ pip install tkinter
 ## Usage
 
 1. Open a terminal/command prompt, navigate to the project directory, and run the following command to start the server:
-python gui_client.py
-2. In another terminal/host, run one of two client files according to your desire, enter valid information to see results.
+python server.py
+2. In another terminal/host, run one of two client files according to your desire, enter valid information to see results. Note: I recommend GUI-based client file as it is visually more appealing.
 
