@@ -17,6 +17,7 @@ This Python-based GUI application allows users to connect to a server and search
 To install the required libraries, you can use `pip`:
 ```bash
 pip install tkinter
+```
 
 ## Usage
 
